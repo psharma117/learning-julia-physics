@@ -1,4 +1,5 @@
-# learning-julia-physics
+# comp-phys-self-study
+
 Easily accessible space for me to document and store my adventures in learning to use Julia for physics. I currently forsee this being a solo endeavor, but I'm not opposed to collaborating with my friends.
 
 My initial plan is to go through [_Numerical Methods for Physics_](http://www.algarcia.org/nummeth/nummeth.html) by Alejandro L. Garcia.
